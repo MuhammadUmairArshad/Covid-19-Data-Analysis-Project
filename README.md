@@ -1,4 +1,4 @@
-# Covid-19 Data Analysis
+# Covid-19 Data Analysis - SQL & Tableau
 ### Deaths Dashboard Link: https://public.tableau.com/views/CovidProject_16318199405800/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ### Vaccination Dashboard Link: https://public.tableau.com/shared/QCKXHF9KC?:display_count=n&:origin=viz_share_link
 
